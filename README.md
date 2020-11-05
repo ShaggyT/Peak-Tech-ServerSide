@@ -25,7 +25,7 @@ Peack Tech is a hub that joins meetups(through a calendar), companies and news f
     - cd Peak-Tech-ServerSide
     - rails db:create 
     - rails db:migrate
-    rails db:seed
+    - rails db:seed
     - bundle install
     - rails s
   ```
